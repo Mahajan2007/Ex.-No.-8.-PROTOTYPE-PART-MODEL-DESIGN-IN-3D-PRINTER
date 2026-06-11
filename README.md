@@ -163,8 +163,8 @@ Thus, the 3D CAD prototype of the Smart IV Drip Monitor System was successfully 
 
 | Field | Details |
 |----------|--------------------------|
-| Name | PRASIDHA A |
-| Register Number | 212224230204 |
+| Name | MahaJanani.R |
+| Register Number | 212224230147 |
 
 
 ---
