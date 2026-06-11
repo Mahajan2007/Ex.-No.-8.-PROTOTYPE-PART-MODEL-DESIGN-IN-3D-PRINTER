@@ -1,57 +1,170 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# EX 03 - To Prototype a given part model in a 3D printer
 
-### DATE:27-05-2026
-## AIM: 
-### To prototype the given part model design in 3D Printer.
+## Smart IV Drip Monitor - 3D CAD Prototype Design
 
-## REQUIREMENTS:
-### ●	3D Printer machine.
-### ●	CURA 4.0 Software.
-### ●	Autodesk Fusion 360 Software.
-### ●	System - Windows 7 or higher, 1 GB RAM.
+---
 
-## PROCEDURE:
+# AIM
 
-### Step 1:- Check all Electrical connections.
+To design and develop a 3D CAD prototype model of a Smart IV Drip Monitor System using Autodesk Fusion 360. The prototype consists of an IV stand assembly, smart monitoring enclosure, sensor mounting provision, and cable routing arrangement for future hardware integration and 3D printing.
 
-### Step 2:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option as shown in below figure.
+---
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/059ab4e7-f3fb-49a9-ba8e-12bdd082abef)
+# REQUIREMENTS
 
-### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
+## Hardware
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/835c55fd-6195-4d73-9f5c-4af36f5a4cce)
+- Computer/Laptop
+- Minimum 4 GB RAM (8 GB Recommended)
+- Intel i3 Processor or Higher
 
-### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
+## Software
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/8736080c-f421-4dd0-bae8-860df6f3583e)
+- Autodesk Fusion 360
+- Windows 10/11
+- Internet Connection
 
-### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
+---
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/98458892-2f68-4de0-bec7-24959ec598fa)
+# PROCEDURE
 
-### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
+## Step 1: Project Planning
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/f4b8b55e-6cb2-46a7-b42c-180bc5e68668)
+- Study the Smart IV Drip Monitor concept.
+- Identify the major components required for the design.
+- Plan the dimensions and assembly structure.
+- Define the positions for the electronic enclosure and IV support system.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/eafa933a-7e03-4f73-930d-75fb28d48716)
+---
 
-### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
-###   1.	Switch on the 3d printer.
-###   2.	Place your Pen drive in USB.
-###   3.	Clean the surface bed plate.
-###   4.	Load filament into the required extruder as per the requirement.
-###   5.	Wait until the nozzle & bed plate comes into the required temperature.
-###   6.	Close the doors of the 3d printer.
-###   7.	Open the file from the USB storage and select the Print option.
+## Step 2: Designing the IV Stand
 
-## Output:
-<img width="1033" height="548" alt="image" src="https://github.com/user-attachments/assets/5fb8c87b-3924-4b7d-9654-e1317b809e2a" />
-<img width="1025" height="543" alt="image" src="https://github.com/user-attachments/assets/c8f379eb-feee-4fff-a297-46b3bd956655" />
+- Open Autodesk Fusion 360.
+- Create a new design.
+- Sketch the base structure.
+- Design the five-wheel support.
+- Create the vertical support pole.
+- Design the top hook assembly for IV bottle and fluid bag support.
+
+### Output
+
+> Paste the image of the Stand Assembly here.
+
+---
+
+## Step 3: Designing the Smart Monitoring Box
+
+- Design the electronics enclosure.
+- Create space for the microcontroller.
+- Add battery compartment.
+- Add sensor mounting provision.
+- Create wire routing channels.
+- Design the carrying handle and protective casing.
+
+### Output
+
+> Paste the image of the Box Portion here.
+
+---
+
+## Step 4: Assembly of Components
+
+- Position the monitoring box on the IV stand.
+- Route the sensor cables appropriately.
+- Position the IV bottle and fluid bag holders.
+- Verify clearances and alignment.
+- Check structural stability.
+
+### Output
+
+> Paste the image showing the assembled monitoring box with stand here.
+
+---
+
+## Step 5: Final CAD Prototype
+
+- Verify all dimensions.
+- Inspect component alignment.
+- Check overall appearance.
+- Save the final Fusion 360 model.
+
+### Output
+
+> Paste the final complete Smart IV Drip Monitor assembly image here.
+
+---
+
+# MAJOR COMPONENTS
+
+- Five-Wheel IV Stand Base
+- Vertical Support Pole
+- Dual IV Hooks
+- Smart Electronics Enclosure
+- Sensor Mounting Provision
+- Wire Routing Channels
+- IV Bottle Holder
+- IV Fluid Bag Holder
+
+---
+
+# FEATURES
+
+- Portable and reusable design
+- Lightweight structure
+- Compatible with existing IV stands
+- Space for embedded electronics
+- Sensor integration support
+- Ready for 3D printing
+- Compact and modular design
+
+---
+
+# EXPECTED OUTPUT
+
+- 3D CAD Model of Smart IV Drip Monitor
+- Stand Assembly
+- Electronics Box Assembly
+- Complete Integrated Prototype
+- Future-ready for 3D Printing
+- Ready for Hardware Implementation
+
+---
+
+# PROJECT OUTPUTS
+
+## 1. Stand Assembly
+
+<img width="769" height="948" alt="empd_2" src="https://github.com/user-attachments/assets/14682b28-3f65-436d-badb-ac0b29f05fb0" />
 
 
-### Name:MahaJanani.R
-### Register Number:212224230147
+---
 
-## RESULT:
-###   Thus a prototype of the given part model is developed using 3D Printer.
+## 2. Smart Monitoring Box
+
+<img width="758" height="947" alt="empd_1" src="https://github.com/user-attachments/assets/bd55810c-0761-43bd-bb68-bfc2a08cc9a3" />
+
+
+---
+
+## 3. Complete Assembly
+
+<img width="1267" height="1241" alt="WhatsApp Image 2026-06-11 at 10 57 30 AM" src="https://github.com/user-attachments/assets/746a338c-e9b5-4386-b058-adc9ce2556d4" />
+
+
+---
+
+# RESULT
+
+Thus, the 3D CAD prototype of the Smart IV Drip Monitor System was successfully designed using Autodesk Fusion 360. The developed model provides a strong foundation for future 3D printing, sensor integration, IoT implementation, and healthcare monitoring applications.
+
+---
+
+# STUDENT DETAILS
+
+| Field | Details |
+|----------|--------------------------|
+| Name | PRASIDHA A |
+| Register Number | 212224230204 |
+
+
+---
